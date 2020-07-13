@@ -11,7 +11,7 @@ I'm a 17 years old self-taught programmer from Colombia, that is fascinated with
 - [Fundamentals of Docker](https://platzi.com/@juancamilosanchezurrego/curso/1432-docker/diploma/detalle/)
 - [React Router](https://platzi.com/@juancamilosanchezurrego/curso/1342-react-router/diploma/detalle/)
 - [Kubernetes "K8s"](https://platzi.com/@juancamilosanchezurrego/curso/1565-k8s/diploma/detalle/)
-
+---
 - 🔭 I’m currently working on ...
   A private project for an accounting company in Colombia.
 - 🌱 I’m currently learning ...
