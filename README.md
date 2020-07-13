@@ -27,7 +27,7 @@ I'm a 17 years old self-taught programmer from Colombia, that is fascinated with
 Markdown editors. I have alredy one project forked, but no changes done.
 - 💬 Ask me about ... **Everything**
 - 📫 How to reach me: ...
-  - Instagram: @juancsucoder
-  - Twitter: @JCSUCoder
-  - LinkedIn: [Link](https://www.linkedin.com/in/juan-camilo-s%C3%A1nchez-urrego-ba10b1186/)
-  - Platzi: [Link](https://platzi.com/@juancamilosanchezurrego/)
+  - Instagram: [@juancsucoder](https://www.instagram.com/juancsucoder/)
+  - Twitter: [@JCSUCoder](https://twitter.com/JCSUCoder)
+  - LinkedIn: [Juan Camilo Sánchez Urrego](https://www.linkedin.com/in/juan-camilo-s%C3%A1nchez-urrego-ba10b1186/)
+  - Platzi: [@juancamilosanchezurrego](https://platzi.com/@juancamilosanchezurrego/)
