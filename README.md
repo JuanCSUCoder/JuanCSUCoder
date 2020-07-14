@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 ## My name is Juan Camilo Sánchez Urrego
-I'm a 17 years old self-taught programmer from Colombia, that is fascinated with everything related to computer science. Nowadays I don't have any universitary degree, but I have learn a lot from the internet since 12 years old, and developed some interesting projects that I'll be updating on here.
+I'm a 17 years old self-taught programmer from Colombia, that is fascinated with everything related to computer science. Nowadays I don't have a college degree, but I have learn a lot from the internet since 12 years old, and developed some interesting projects that I'll be updating on here.
 
 [Platzi Profile](https://platzi.com/@juancamilosanchezurrego/)
 
