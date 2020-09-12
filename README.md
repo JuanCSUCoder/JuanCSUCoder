@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 ## My name is Juan Camilo Sánchez Urrego
-I'm a 17 years old self-taught programmer from Colombia, that is fascinated with everything related to computer science. Nowadays I don't have a college degree, but I have learn a lot from the internet since 12 years old, and developed some interesting projects that I'll be updating on here.
+I'm a 17 years old self-taught programmer from Colombia, that is fascinated with everything related to computer science. I have learn a lot from the internet since 12 years old, and developed some interesting projects that I'll be updating on here.
 
 [Platzi Profile](https://platzi.com/@juancamilosanchezurrego/)
 
@@ -14,16 +14,12 @@ I'm a 17 years old self-taught programmer from Colombia, that is fascinated with
 ---
 - 🔭 I’m currently working on ... **Learning**
 - 🌱 I’m currently learning ...
-  - Python Linear Algebra
-  - Docker Swarm
-  - MongoDB Database Sharding
+  - RUST Language
   - GlusterFS
   - Ceph Storage
   - Go Language
-  - RUST Language
-  - Email Layout
 - 👯 I’m looking to collaborate on ...
-Markdown editors. I have alredy one project forked, but no changes done.
+[Google Meet Grid View (Fix) Extension](https://github.com/icysapphire/google-meet-grid-view)
 - 💬 Ask me about ... **Everything**
 - 📫 How to reach me: ...
   - Instagram: [@juancsucoder](https://www.instagram.com/juancsucoder/)
