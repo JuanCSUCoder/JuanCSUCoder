@@ -24,5 +24,5 @@ I'm a 17 years old self-taught programmer from Colombia, that is fascinated with
 - 📫 How to reach me: ...
   - Instagram: [@juancsucoder](https://www.instagram.com/juancsucoder/)
   - Twitter: [@juancsucoder](https://twitter.com/juancsucoder)
-  - LinkedIn: [Juan Camilo Sánchez Urrego](https://www.linkedin.com/in/juan-camilo-s%C3%A1nchez-urrego-ba10b1186/)
+  - LinkedIn: [Juan Camilo Sánchez Urrego](https://www.linkedin.com/in/juancsucoder/)
   - Platzi: [@juancsucoder](https://platzi.com/@juancsucoder/)
