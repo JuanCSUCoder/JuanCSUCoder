@@ -3,7 +3,7 @@
 ## My name is Juan Camilo Sánchez Urrego
 I'm a 17 years old self-taught programmer from Colombia, that is fascinated with everything related to computer science. I have learn a lot from the internet since 12 years old, and developed some interesting projects that I'll be updating on here.
 
-[Platzi Profile](https://platzi.com/@juancamilosanchezurrego/)
+[Platzi Profile](https://platzi.com/@juancsucoder/)
 
 ## Platzi Certificates
 - [Fundamentals of Software Engineering](https://platzi.com/@juancamilosanchezurrego/curso/1098-ingenieria/diploma/detalle/)
@@ -25,4 +25,4 @@ I'm a 17 years old self-taught programmer from Colombia, that is fascinated with
   - Instagram: [@juancsucoder](https://www.instagram.com/juancsucoder/)
   - Twitter: [@juancsucoder](https://twitter.com/juancsucoder)
   - LinkedIn: [Juan Camilo Sánchez Urrego](https://www.linkedin.com/in/juan-camilo-s%C3%A1nchez-urrego-ba10b1186/)
-  - Platzi: [@juancamilosanchezurrego](https://platzi.com/@juancamilosanchezurrego/)
+  - Platzi: [@juancsucoder](https://platzi.com/@juancsucoder/)
