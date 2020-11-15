@@ -19,8 +19,6 @@ I'm a 17 years old self-taught programmer from Colombia, that is fascinated with
   - Next JS
   - Strapi.io
   - Flutter
-- 👯 I’m looking to collaborate on ...
-[Google Meet Grid View (Fix) Extension](https://github.com/icysapphire/google-meet-grid-view)
 - 💬 Ask me about ... **Everything**
 - 📫 How to reach me: ...
   - Instagram: [@juancsucoder](https://www.instagram.com/juancsucoder/)
