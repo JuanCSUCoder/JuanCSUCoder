@@ -14,10 +14,11 @@ I'm a 17 years old self-taught programmer from Colombia, that is fascinated with
 ---
 - 🔭 I’m currently working on ... **Learning**
 - 🌱 I’m currently learning ...
-  - RUST Language
   - GlusterFS
   - Ceph Storage
-  - Go Language
+  - Next JS
+  - Strapi.io
+  - Flutter
 - 👯 I’m looking to collaborate on ...
 [Google Meet Grid View (Fix) Extension](https://github.com/icysapphire/google-meet-grid-view)
 - 💬 Ask me about ... **Everything**
