@@ -21,7 +21,8 @@ I'm a 18 years old self-taught programmer from Colombia, that is fascinated with
   - Flutter
 - 💬 Ask me about ... **Everything**
 - 📫 How to reach me: ...
-  - Instagram: [@juancsucoder](https://www.instagram.com/juancsucoder/)
-  - Twitter: [@juancsucoder](https://twitter.com/juancsucoder)
-  - LinkedIn: [Juan Camilo Sánchez Urrego](https://www.linkedin.com/in/juancsucoder/)
-  - Platzi: [@juancsucoder](https://platzi.com/@juancsucoder/)
+  - Instagram: [Juan Camilo Sánchez Urrego - @juancsucoder](https://www.instagram.com/juancsucoder/)
+  - Twitter: [Juan Camilo Sánchez Urrego - @juancsucoder](https://twitter.com/juancsucoder)
+  - LinkedIn: [Juan Camilo Sánchez Urrego - /juancsucoder](https://www.linkedin.com/in/juancsucoder/)
+  - Email: [Juan Camilo Sánchez Urrego - jcsu2019369@gmail.com](mailto:jcsu2019369@gmail.com)
+  - Platzi: [Juan Camilo Sánchez Urrego - @juancsucoder](https://platzi.com/@juancsucoder/)
