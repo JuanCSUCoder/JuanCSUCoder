@@ -5,7 +5,7 @@ I'm a 18 years old self-taught programmer from Colombia, that is fascinated with
 
 ![Arch Linux](https://img.shields.io/badge/I_use_Arch_Linux_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-My [Webpage](https://jcsucoder.github.io/), [Platzi Profile](https://platzi.com/@juancsucoder/) and [Keybase ID](https://keybase.io/juancsucoder/)
+My [Website](https://jcsucoder.github.io/), [Platzi Profile](https://platzi.com/@juancsucoder/) and [Keybase ID](https://keybase.io/juancsucoder/)
 
 ## Projects Links
 - [SystemicWorks](https://jcsucoder.github.io/SystemicWorks/)
