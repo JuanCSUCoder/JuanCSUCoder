@@ -1,18 +1,18 @@
 ### Hi there 👋
 ---
 ## My name is Juan Camilo Sánchez Urrego
-<img src="https://github-readme-stats.vercel.app/api?username=jcsucoder&theme=blue-green&show_icons=true" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=juancsucoder&theme=blue-green&show_icons=true" align="right"/>
 I'm a 18 years old self-taught programmer from Colombia, that is fascinated with everything related to computer science. I have learned a lot from the internet, and developed some interesting projects that I'll be updating on here.
 
 ![Arch Linux](https://img.shields.io/badge/I_use_Arch_Linux_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-My [Website](https://jcsucoder.github.io/), [Platzi Profile](https://platzi.com/@juancsucoder/) and [Keybase ID](https://keybase.io/juancsucoder/)
+My [Website](https://juancsucoder.github.io/), [Platzi Profile](https://platzi.com/@juancsucoder/) and [Keybase ID](https://keybase.io/juancsucoder/)
 
 ## Projects Links
-- [SystemicWorks](https://jcsucoder.github.io/SystemicWorks/)
+- [SystemicWorks](https://juancsucoder.github.io/SystemicWorks/)
 
 ## Skills
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsucoder&theme=blue-green&langs_count=8" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancsucoder&theme=blue-green&langs_count=8" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML_5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
