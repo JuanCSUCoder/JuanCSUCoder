@@ -49,6 +49,9 @@ My [Website](https://juancsucoder.github.io/), [Platzi Profile](https://platzi.c
 
 ## 💬 Ask me about ... **Everything**
 
+## My Daily.Dev
+<a href="https://app.daily.dev/JuanCSUCoder"><img src="https://api.daily.dev/devcards/5b4b8101a73746909ada91500b48b5c5.png?r=eg6" width="300" alt="Juan Camilo Sánchez Urrego's Dev Card"/></a>
+
 ## 📫 How to reach me: ...
   - Telegram: [Juan Camilo Sánchez Urrego - @juancsucoder](https://t.me/juancsucoder)
   - Instagram: [Juan Camilo Sánchez Urrego - @juancsucoder](https://www.instagram.com/juancsucoder/)
