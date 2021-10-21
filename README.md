@@ -2,7 +2,7 @@
 ---
 ## My name is Juan Camilo Sánchez Urrego
 <img src="https://github-readme-stats.vercel.app/api?username=juancsucoder&theme=blue-green&show_icons=true" align="right"/>
-I'm a 18 years old self-taught programmer from Colombia, that is fascinated with everything related to computer science. I have learned a lot from the internet, and developed some interesting projects that I'll be updating on here.
+I'm a self-taught programmer from Colombia, that is fascinated with everything related to computer science. I have learned a lot from the internet, and developed some interesting projects that I'll be updating on here.
 
 ![Arch Linux](https://img.shields.io/badge/I_use_Arch_Linux_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
@@ -23,10 +23,9 @@ My [Website](https://juancsucoder.github.io/), [Platzi Profile](https://platzi.c
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Learning
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Contact
 
