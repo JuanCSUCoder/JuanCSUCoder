@@ -12,7 +12,7 @@ My [Website](https://juancsucoder.github.io/), [Platzi Profile](https://platzi.c
 - [SystemicWorks](https://juancsucoder.github.io/SystemicWorks/)
 
 ## Skills
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancsucoder&theme=blue-green&langs_count=8" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCSUCoder&layout=compact&theme=blue-green&langs_count=8" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML_5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
