@@ -6,7 +6,11 @@ I'm a self-taught programmer from Colombia, that is fascinated with everything r
 
 ![Arch Linux](https://img.shields.io/badge/I_use_Arch_Linux_btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-My [Website](https://juancsucoder.github.io/), [Platzi Profile](https://platzi.com/@juancsucoder/) and [Keybase ID](https://keybase.io/juancsucoder/)
+## Check My ...
+[![Website](https://img.shields.io/badge/Website_juancsu.codes-171717?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://juancsucoder.github.io/)
+[![Dev.To](https://img.shields.io/badge/dev.to_/JuanCSUCoder-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/juancsucoder)
+[![Platzi Profile](https://img.shields.io/badge/Platzi_@juancsucoder-98ca3f?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/@juancsucoder/)
+[![Keybase ID](https://img.shields.io/badge/Keybase_@juancsucoder-orange?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/juancsucoder/)
 
 ## Projects Links
 - [SystemicWorks](https://juancsucoder.github.io/SystemicWorks/)
@@ -14,18 +18,20 @@ My [Website](https://juancsucoder.github.io/), [Platzi Profile](https://platzi.c
 ## Skills
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCSUCoder&layout=compact&theme=blue-green&langs_count=8" align="right"/>
 
+![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=Next.js&logoColor=white)
+![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML 5](https://img.shields.io/badge/HTML_5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white)
 
 ## Learning
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Ethereum](https://img.shields.io/badge/Ethereum_Smart_Contracts-716b94?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=Solidity&logoColor=white)
 
 ## Contact
 
