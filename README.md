@@ -13,7 +13,10 @@ I'm a self-taught programmer from Colombia, that is fascinated with everything r
 [![Keybase ID](https://img.shields.io/badge/Keybase_@juancsucoder-orange?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/juancsucoder/)
 
 ## Projects Links
-- [SystemicWorks](https://juancsucoder.github.io/SystemicWorks/)
+
+| [SystemicWorks](https://juancsucoder.github.io/SystemicWorks/)                          |
+| --------------------------------------------------------------------------------------- |
+| [<img src="https://github.com/JuanCSUCoder/SystemicWorks/raw/main/pages/icon_large.png" width="150px" align="center" />](https://juancsucoder.github.io/SystemicWorks/) |
 
 ## Skills
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCSUCoder&layout=compact&theme=blue-green&langs_count=8" align="right"/>
