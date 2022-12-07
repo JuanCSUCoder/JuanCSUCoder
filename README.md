@@ -14,12 +14,13 @@ I'm a self-taught programmer from Colombia, that is fascinated with everything r
 
 ## Projects Links
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCSUCoder&layout=compact&theme=blue-green&langs_count=8" align="right"/>
+
 | [SystemicWorks](https://juancsucoder.github.io/SystemicWorks/)                          |
 | --------------------------------------------------------------------------------------- |
 | [<img src="https://github.com/JuanCSUCoder/SystemicWorks/raw/main/pages/icon_large.png" width="150px" align="center" />](https://juancsucoder.github.io/SystemicWorks/) |
 
 ## Skills
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCSUCoder&layout=compact&theme=blue-green&langs_count=8" align="right"/>
 
 ![Next JS](https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=Next.js&logoColor=white)
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
